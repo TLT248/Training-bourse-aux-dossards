@@ -24,6 +24,10 @@ a:hover {
   background-color: #A36060;
 }
 
+h2,h3:click {
+  background-color: #249D8F;
+}
+
 div {
   background-color : white;
   padding : 50px;
