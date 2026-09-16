@@ -24,11 +24,7 @@ a:hover {
   background-color: #A36060;
 }
 
-h2,h3:click {
-  background-color: #249D8F;
-}
-
-h2,h3:hover {
+h2:hover {
   background-color: #E76F51;
 }
 
