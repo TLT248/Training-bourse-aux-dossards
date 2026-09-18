@@ -33,7 +33,7 @@ h2:hover {
   background-color: #E76F51;
 }
 
-div {
+.bloc {
   background-color : white;
   padding : 50px;
   width : 500px;
