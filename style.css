@@ -3,7 +3,8 @@ body {
   background-color: #f9ebc88d;
   color: #644536;
   text-align: center;
-  padding: 25px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .image-responsive {
