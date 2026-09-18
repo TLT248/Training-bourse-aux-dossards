@@ -35,12 +35,12 @@ h2:hover {
 }
 
 .bloc {
-  background-color : white;
-  padding : 50px;
-  width : 500px;
-  margin : 25px auto;
-  border-radius : 5px;
-  border : 1px solid #EAEAEA;
-  box-shadow : 0 0 16px rgba(0,0,0,0.1);
+  background-color: white;
+  padding: 50px;
+  width: 100%;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
   
 }
